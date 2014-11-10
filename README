@@ -15,10 +15,10 @@ The idea is to make it easy to zoom into and out of a window.  ZoomWin supports 
 
  * Files are made hidden during zoom-in and restored upon zoom-out
 
- * All windows' file contents will be restored during zoomouts. 
+ * All windows' file contents will be restored during zoomouts.
 
  * ZoomWin will clean up any temporary files it generates upon exit.
- 
+
  * Session files are guaranteed to be unique to each vim session, so multiple vims can use zoom-in/out without interfering with one another
 
 A later version may be available at http://www.drchip.org/astronaut/vim/index.html#ZOOMWIN .
