@@ -1,3 +1,5 @@
+I no longer use this library and have switched to https://github.com/dhruvasagar/vim-zoom/.
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=508
 
 Note: version 23 or later of ZoomWin requires vim 7.2 or later
